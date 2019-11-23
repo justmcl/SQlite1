@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQlite1</string>
+    <string name="title_activity_tip">TipActivity</string>
+</resources>
